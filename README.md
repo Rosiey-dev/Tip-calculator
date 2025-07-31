@@ -1,16 +1,16 @@
-🧮 Calculator App
-A simple, user-friendly calculator built using HTML, CSS, and JavaScript. This project demonstrates fundamental web development skills including DOM manipulation, event handling, and responsive design.
+💸 Tip Calculator
+A responsive web-based Tip Calculator that helps users quickly calculate the tip amount and total bill per person. Perfect for improving basic web development skills using HTML, CSS, and JavaScript.
 
 🚀 Features
-Basic arithmetic operations: addition, subtraction, multiplication, division
+Enter bill amount and tip percentage
 
-Clear and delete functions
+Choose number of people to split the bill
 
-Real-time result display
+Real-time calculation of tip and total per person
 
-Responsive layout for mobile and desktop
+Clear/reset functionality
 
-Keyboard support (optional, if included in your code)
+Fully responsive design for mobile and desktop
 
 🛠️ Technologies Used
 HTML5
@@ -20,23 +20,30 @@ CSS3
 JavaScript (Vanilla JS)
 
 📂 Project Structure
-calculator/
-├── index.html — Main HTML structure
-├── style.css — Styling and layout
-└── script.js — Functionality and logic
+tip-calculator/
+├── index.html — Page layout and structure
+├── style.css — Styling and responsiveness
+└── script.js — Logic for tip and total calculation
 
-💻 How to Run Locally
-Clone the repository or download the ZIP file
+💻 How to Use
+Open the index.html file in any web browser
 
-Open the index.html file in your browser
+Enter the bill amount
 
-✅ Future Improvements
-Add scientific calculator functions (square root, power, sin, cos, etc.)
+Choose a tip percentage or enter a custom value
 
-Add dark/light theme toggle
+Enter the number of people
 
-Improve accessibility (e.g. screen reader support)
+View the tip amount and total per person instantly
+
+✅ Possible Improvements
+Add currency selector
+
+Save calculation history
+
+Add animations or transitions for smoother UI
+
+Improve accessibility features
 
 📜 License
-This project is licensed under the MIT License — feel free to use it and modify it.
-
+This project is licensed under the MIT License. Free to use, modify, and share!
