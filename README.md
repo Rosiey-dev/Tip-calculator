@@ -43,6 +43,7 @@ Save calculation history
 
 Add animations or transitions for smoother UI
 
+LIVE DEMO: https://lucent-naiad-221c5d.netlify.app/
 Improve accessibility features
 
 📜 License
